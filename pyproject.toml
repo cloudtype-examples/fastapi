@@ -9,6 +9,7 @@ packages = [{include = "fastapi_proj"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 fastapi = "^0.104.1"
+uvicorn = "^0.24.0.post1"
 
 
 [build-system]
